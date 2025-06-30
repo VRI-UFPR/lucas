@@ -18,7 +18,7 @@
 
 ## **🔍** Architecture
 
-<img src="architecture.png" alt="architecture" style="zoom:25%;" />
+<img src="architecture.png" alt="architecture" style="zoom:55%;" />
 
 ## 📝 Citation
 
