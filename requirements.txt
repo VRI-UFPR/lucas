@@ -1,0 +1,5 @@
+pvporcupine
+pygame
+edge-tts
+pyaudio
+speechbrain
