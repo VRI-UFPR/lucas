@@ -3,3 +3,8 @@ pygame
 edge-tts
 pyaudio
 speechbrain
+uvicorn
+langchain-community
+langchain
+dotenv
+fastapi
